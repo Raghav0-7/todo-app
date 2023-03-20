@@ -1,0 +1,4 @@
+#Wed Feb 15 00:47:31 IST 2023
+base.0=D\:\\Raghav\\DSA\\Flutter-Firebase-Tutorials\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
